@@ -1,21 +1,45 @@
-<section class="category-panel">
-  <div id="categoryButtons" class="category-buttons"></div>
-</section>
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Word Player</title>
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <main class="app">
+    <header class="hero">
+      <div class="eyebrow">AI 영어 단어 학습방</div>
+      <h1>뜻 말고 구조로 보는 영어</h1>
+    </header>
 
-<section id="wordListPanel" class="word-list-panel hidden">
-  <h2 id="activeCategoryTitle">단어 목록</h2>
-  <div id="wordButtons" class="word-buttons"></div>
-</section>
+    <section class="category-panel">
+      <div id="categoryButtons" class="category-buttons"></div>
+    </section>
 
-<section id="playerPanel" class="player-panel hidden">
-  <button id="backHomeBtn">← 목록으로</button>
-  <div id="currentWordTitle" class="current-word"></div>
-  <div id="cardCounter"></div>
-  <div class="card-stage"><img id="cardImage" src="" /></div>
-  <div class="card-controls">
-    <button id="prevCardBtn">이전</button>
-    <button id="nextCardBtn">다음</button>
-  </div>
-</section>
+    <section id="wordListPanel" class="word-list-panel hidden">
+      <h2 id="activeCategoryTitle" style="margin-bottom:15px;">단어 목록</h2>
+      <div id="wordButtons" class="word-buttons"></div>
+    </section>
 
-<script src="./app.js?v=20260518_final"></script>
+    <section id="playerPanel" class="player-panel hidden">
+      <div class="player-top">
+        <button id="backHomeBtn" type="button" class="ghost-btn">← 목록</button>
+        <div class="word-meta">
+          <div id="currentWordTitle" class="current-word"></div>
+          <div id="cardCounter" class="card-counter"></div>
+        </div>
+      </div>
+      <div id="cardStage" class="card-stage">
+        <img id="cardImage" alt="단어 카드" />
+      </div>
+      <div class="card-controls">
+        <button id="prevCardBtn" type="button">이전</button>
+        <button id="nextCardBtn" type="button">다음</button>
+      </div>
+    </section>
+  </main>
+
+  <script src="./app.js?v=999"></script>
+</body>
+</html>
