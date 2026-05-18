@@ -72,7 +72,7 @@
         "yet"
       ]
     },
-    "hub200": {
+    "hub": {
       "label": "허브 단어 200",
       "words": [
         "abound",
@@ -1027,1593 +1027,1593 @@
         ]
       }
     },
-    "hub200": {
+    "hub": {
       "abound": {
         "title": "abound",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/abound/1.jpg",
-          "cards/hub200/abound/2.jpg",
-          "cards/hub200/abound/3.jpg",
-          "cards/hub200/abound/4.jpg",
-          "cards/hub200/abound/5.jpg",
-          "cards/hub200/abound/6.jpg"
+          "cards/hub/abound/1.jpg",
+          "cards/hub/abound/2.jpg",
+          "cards/hub/abound/3.jpg",
+          "cards/hub/abound/4.jpg",
+          "cards/hub/abound/5.jpg",
+          "cards/hub/abound/6.jpg"
         ]
       },
       "acknowledge": {
         "title": "acknowledge",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/acknowledge/1.jpg",
-          "cards/hub200/acknowledge/2.jpg",
-          "cards/hub200/acknowledge/3.jpg",
-          "cards/hub200/acknowledge/4.jpg",
-          "cards/hub200/acknowledge/5.jpg",
-          "cards/hub200/acknowledge/6.jpg"
+          "cards/hub/acknowledge/1.jpg",
+          "cards/hub/acknowledge/2.jpg",
+          "cards/hub/acknowledge/3.jpg",
+          "cards/hub/acknowledge/4.jpg",
+          "cards/hub/acknowledge/5.jpg",
+          "cards/hub/acknowledge/6.jpg"
         ]
       },
       "already": {
         "title": "already",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/already/1.jpg",
-          "cards/hub200/already/2.jpg",
-          "cards/hub200/already/3.jpg",
-          "cards/hub200/already/4.jpg",
-          "cards/hub200/already/5.jpg",
-          "cards/hub200/already/6.jpg"
+          "cards/hub/already/1.jpg",
+          "cards/hub/already/2.jpg",
+          "cards/hub/already/3.jpg",
+          "cards/hub/already/4.jpg",
+          "cards/hub/already/5.jpg",
+          "cards/hub/already/6.jpg"
         ]
       },
       "arrange": {
         "title": "arrange",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/arrange/1.jpg",
-          "cards/hub200/arrange/2.jpg",
-          "cards/hub200/arrange/3.jpg",
-          "cards/hub200/arrange/4.jpg",
-          "cards/hub200/arrange/5.jpg",
-          "cards/hub200/arrange/6.jpg"
+          "cards/hub/arrange/1.jpg",
+          "cards/hub/arrange/2.jpg",
+          "cards/hub/arrange/3.jpg",
+          "cards/hub/arrange/4.jpg",
+          "cards/hub/arrange/5.jpg",
+          "cards/hub/arrange/6.jpg"
         ]
       },
       "attempt": {
         "title": "attempt",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/attempt/1.jpg",
-          "cards/hub200/attempt/2.jpg",
-          "cards/hub200/attempt/3.jpg",
-          "cards/hub200/attempt/4.jpg",
-          "cards/hub200/attempt/5.jpg",
-          "cards/hub200/attempt/6.jpg"
+          "cards/hub/attempt/1.jpg",
+          "cards/hub/attempt/2.jpg",
+          "cards/hub/attempt/3.jpg",
+          "cards/hub/attempt/4.jpg",
+          "cards/hub/attempt/5.jpg",
+          "cards/hub/attempt/6.jpg"
         ]
       },
       "blend": {
         "title": "blend",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/blend/1.jpg",
-          "cards/hub200/blend/2.jpg",
-          "cards/hub200/blend/3.jpg",
-          "cards/hub200/blend/4.jpg",
-          "cards/hub200/blend/5.jpg",
-          "cards/hub200/blend/6.jpg"
+          "cards/hub/blend/1.jpg",
+          "cards/hub/blend/2.jpg",
+          "cards/hub/blend/3.jpg",
+          "cards/hub/blend/4.jpg",
+          "cards/hub/blend/5.jpg",
+          "cards/hub/blend/6.jpg"
         ]
       },
       "bring": {
         "title": "bring",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/bring/1.jpg",
-          "cards/hub200/bring/2.jpg",
-          "cards/hub200/bring/3.jpg",
-          "cards/hub200/bring/4.jpg",
-          "cards/hub200/bring/5.jpg",
-          "cards/hub200/bring/6.jpg"
+          "cards/hub/bring/1.jpg",
+          "cards/hub/bring/2.jpg",
+          "cards/hub/bring/3.jpg",
+          "cards/hub/bring/4.jpg",
+          "cards/hub/bring/5.jpg",
+          "cards/hub/bring/6.jpg"
         ]
       },
       "catalogue": {
         "title": "catalogue",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/catalogue/1.jpg",
-          "cards/hub200/catalogue/2.jpg",
-          "cards/hub200/catalogue/3.jpg",
-          "cards/hub200/catalogue/4.jpg",
-          "cards/hub200/catalogue/5.jpg",
-          "cards/hub200/catalogue/6.jpg"
+          "cards/hub/catalogue/1.jpg",
+          "cards/hub/catalogue/2.jpg",
+          "cards/hub/catalogue/3.jpg",
+          "cards/hub/catalogue/4.jpg",
+          "cards/hub/catalogue/5.jpg",
+          "cards/hub/catalogue/6.jpg"
         ]
       },
       "compel": {
         "title": "compel",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/compel/1.jpg",
-          "cards/hub200/compel/2.jpg",
-          "cards/hub200/compel/3.jpg",
-          "cards/hub200/compel/4.jpg",
-          "cards/hub200/compel/5.jpg",
-          "cards/hub200/compel/6.jpg"
+          "cards/hub/compel/1.jpg",
+          "cards/hub/compel/2.jpg",
+          "cards/hub/compel/3.jpg",
+          "cards/hub/compel/4.jpg",
+          "cards/hub/compel/5.jpg",
+          "cards/hub/compel/6.jpg"
         ]
       },
       "corner": {
         "title": "corner",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/corner/1.jpg",
-          "cards/hub200/corner/2.jpg",
-          "cards/hub200/corner/3.jpg",
-          "cards/hub200/corner/4.jpg",
-          "cards/hub200/corner/5.jpg",
-          "cards/hub200/corner/6.jpg"
+          "cards/hub/corner/1.jpg",
+          "cards/hub/corner/2.jpg",
+          "cards/hub/corner/3.jpg",
+          "cards/hub/corner/4.jpg",
+          "cards/hub/corner/5.jpg",
+          "cards/hub/corner/6.jpg"
         ]
       },
       "deceive": {
         "title": "deceive",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/deceive/1.jpg",
-          "cards/hub200/deceive/2.jpg",
-          "cards/hub200/deceive/3.jpg",
-          "cards/hub200/deceive/4.jpg",
-          "cards/hub200/deceive/5.jpg",
-          "cards/hub200/deceive/6.jpg"
+          "cards/hub/deceive/1.jpg",
+          "cards/hub/deceive/2.jpg",
+          "cards/hub/deceive/3.jpg",
+          "cards/hub/deceive/4.jpg",
+          "cards/hub/deceive/5.jpg",
+          "cards/hub/deceive/6.jpg"
         ]
       },
       "despise": {
         "title": "despise",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/despise/1.jpg",
-          "cards/hub200/despise/2.jpg",
-          "cards/hub200/despise/3.jpg",
-          "cards/hub200/despise/4.jpg",
-          "cards/hub200/despise/5.jpg",
-          "cards/hub200/despise/6.jpg"
+          "cards/hub/despise/1.jpg",
+          "cards/hub/despise/2.jpg",
+          "cards/hub/despise/3.jpg",
+          "cards/hub/despise/4.jpg",
+          "cards/hub/despise/5.jpg",
+          "cards/hub/despise/6.jpg"
         ]
       },
       "dread": {
         "title": "dread",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/dread/1.jpg",
-          "cards/hub200/dread/2.jpg",
-          "cards/hub200/dread/3.jpg",
-          "cards/hub200/dread/4.jpg",
-          "cards/hub200/dread/5.jpg",
-          "cards/hub200/dread/6.jpg"
+          "cards/hub/dread/1.jpg",
+          "cards/hub/dread/2.jpg",
+          "cards/hub/dread/3.jpg",
+          "cards/hub/dread/4.jpg",
+          "cards/hub/dread/5.jpg",
+          "cards/hub/dread/6.jpg"
         ]
       },
       "empty": {
         "title": "empty",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/empty/1.jpg",
-          "cards/hub200/empty/2.jpg",
-          "cards/hub200/empty/3.jpg",
-          "cards/hub200/empty/4.jpg",
-          "cards/hub200/empty/5.jpg",
-          "cards/hub200/empty/6.jpg"
+          "cards/hub/empty/1.jpg",
+          "cards/hub/empty/2.jpg",
+          "cards/hub/empty/3.jpg",
+          "cards/hub/empty/4.jpg",
+          "cards/hub/empty/5.jpg",
+          "cards/hub/empty/6.jpg"
         ]
       },
       "exclude": {
         "title": "exclude",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/exclude/1.jpg",
-          "cards/hub200/exclude/2.jpg",
-          "cards/hub200/exclude/3.jpg",
-          "cards/hub200/exclude/4.jpg",
-          "cards/hub200/exclude/5.jpg",
-          "cards/hub200/exclude/6.jpg"
+          "cards/hub/exclude/1.jpg",
+          "cards/hub/exclude/2.jpg",
+          "cards/hub/exclude/3.jpg",
+          "cards/hub/exclude/4.jpg",
+          "cards/hub/exclude/5.jpg",
+          "cards/hub/exclude/6.jpg"
         ]
       },
       "far": {
         "title": "far",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/far/1.jpg",
-          "cards/hub200/far/2.jpg",
-          "cards/hub200/far/3.jpg",
-          "cards/hub200/far/4.jpg",
-          "cards/hub200/far/5.jpg",
-          "cards/hub200/far/6.jpg"
+          "cards/hub/far/1.jpg",
+          "cards/hub/far/2.jpg",
+          "cards/hub/far/3.jpg",
+          "cards/hub/far/4.jpg",
+          "cards/hub/far/5.jpg",
+          "cards/hub/far/6.jpg"
         ]
       },
       "figure": {
         "title": "figure",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/figure/1.jpg",
-          "cards/hub200/figure/2.jpg",
-          "cards/hub200/figure/3.jpg",
-          "cards/hub200/figure/4.jpg",
-          "cards/hub200/figure/5.jpg",
-          "cards/hub200/figure/6.jpg"
+          "cards/hub/figure/1.jpg",
+          "cards/hub/figure/2.jpg",
+          "cards/hub/figure/3.jpg",
+          "cards/hub/figure/4.jpg",
+          "cards/hub/figure/5.jpg",
+          "cards/hub/figure/6.jpg"
         ]
       },
       "full": {
         "title": "full",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/full/1.jpg",
-          "cards/hub200/full/2.jpg",
-          "cards/hub200/full/3.jpg",
-          "cards/hub200/full/4.jpg",
-          "cards/hub200/full/5.jpg",
-          "cards/hub200/full/6.jpg"
+          "cards/hub/full/1.jpg",
+          "cards/hub/full/2.jpg",
+          "cards/hub/full/3.jpg",
+          "cards/hub/full/4.jpg",
+          "cards/hub/full/5.jpg",
+          "cards/hub/full/6.jpg"
         ]
       },
       "hand": {
         "title": "hand",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/hand/1.jpg",
-          "cards/hub200/hand/2.jpg",
-          "cards/hub200/hand/3.jpg",
-          "cards/hub200/hand/4.jpg",
-          "cards/hub200/hand/5.jpg",
-          "cards/hub200/hand/6.jpg"
+          "cards/hub/hand/1.jpg",
+          "cards/hub/hand/2.jpg",
+          "cards/hub/hand/3.jpg",
+          "cards/hub/hand/4.jpg",
+          "cards/hub/hand/5.jpg",
+          "cards/hub/hand/6.jpg"
         ]
       },
       "high": {
         "title": "high",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/high/1.jpg",
-          "cards/hub200/high/2.jpg",
-          "cards/hub200/high/3.jpg",
-          "cards/hub200/high/4.jpg",
-          "cards/hub200/high/5.jpg",
-          "cards/hub200/high/6.jpg"
+          "cards/hub/high/1.jpg",
+          "cards/hub/high/2.jpg",
+          "cards/hub/high/3.jpg",
+          "cards/hub/high/4.jpg",
+          "cards/hub/high/5.jpg",
+          "cards/hub/high/6.jpg"
         ]
       },
       "infer": {
         "title": "infer",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/infer/1.jpg",
-          "cards/hub200/infer/2.jpg",
-          "cards/hub200/infer/3.jpg",
-          "cards/hub200/infer/4.jpg",
-          "cards/hub200/infer/5.jpg",
-          "cards/hub200/infer/6.jpg"
+          "cards/hub/infer/1.jpg",
+          "cards/hub/infer/2.jpg",
+          "cards/hub/infer/3.jpg",
+          "cards/hub/infer/4.jpg",
+          "cards/hub/infer/5.jpg",
+          "cards/hub/infer/6.jpg"
         ]
       },
       "inspect": {
         "title": "inspect",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/inspect/1.jpg",
-          "cards/hub200/inspect/2.jpg",
-          "cards/hub200/inspect/3.jpg",
-          "cards/hub200/inspect/4.jpg",
-          "cards/hub200/inspect/5.jpg",
-          "cards/hub200/inspect/6.jpg"
+          "cards/hub/inspect/1.jpg",
+          "cards/hub/inspect/2.jpg",
+          "cards/hub/inspect/3.jpg",
+          "cards/hub/inspect/4.jpg",
+          "cards/hub/inspect/5.jpg",
+          "cards/hub/inspect/6.jpg"
         ]
       },
       "issue": {
         "title": "issue",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/issue/1.jpg",
-          "cards/hub200/issue/2.jpg",
-          "cards/hub200/issue/3.jpg",
-          "cards/hub200/issue/4.jpg",
-          "cards/hub200/issue/5.jpg",
-          "cards/hub200/issue/6.jpg"
+          "cards/hub/issue/1.jpg",
+          "cards/hub/issue/2.jpg",
+          "cards/hub/issue/3.jpg",
+          "cards/hub/issue/4.jpg",
+          "cards/hub/issue/5.jpg",
+          "cards/hub/issue/6.jpg"
         ]
       },
       "line": {
         "title": "line",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/line/1.jpg",
-          "cards/hub200/line/2.jpg",
-          "cards/hub200/line/3.jpg",
-          "cards/hub200/line/4.jpg",
-          "cards/hub200/line/5.jpg",
-          "cards/hub200/line/6.jpg"
+          "cards/hub/line/1.jpg",
+          "cards/hub/line/2.jpg",
+          "cards/hub/line/3.jpg",
+          "cards/hub/line/4.jpg",
+          "cards/hub/line/5.jpg",
+          "cards/hub/line/6.jpg"
         ]
       },
       "miss": {
         "title": "miss",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/miss/1.jpg",
-          "cards/hub200/miss/2.jpg",
-          "cards/hub200/miss/3.jpg",
-          "cards/hub200/miss/4.jpg",
-          "cards/hub200/miss/5.jpg",
-          "cards/hub200/miss/6.jpg"
+          "cards/hub/miss/1.jpg",
+          "cards/hub/miss/2.jpg",
+          "cards/hub/miss/3.jpg",
+          "cards/hub/miss/4.jpg",
+          "cards/hub/miss/5.jpg",
+          "cards/hub/miss/6.jpg"
         ]
       },
       "new": {
         "title": "new",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/new/1.jpg",
-          "cards/hub200/new/2.jpg",
-          "cards/hub200/new/3.jpg",
-          "cards/hub200/new/4.jpg",
-          "cards/hub200/new/5.jpg",
-          "cards/hub200/new/6.jpg"
+          "cards/hub/new/1.jpg",
+          "cards/hub/new/2.jpg",
+          "cards/hub/new/3.jpg",
+          "cards/hub/new/4.jpg",
+          "cards/hub/new/5.jpg",
+          "cards/hub/new/6.jpg"
         ]
       },
       "pass": {
         "title": "pass",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/pass/1.jpg",
-          "cards/hub200/pass/2.jpg",
-          "cards/hub200/pass/3.jpg",
-          "cards/hub200/pass/4.jpg",
-          "cards/hub200/pass/5.jpg",
-          "cards/hub200/pass/6.jpg"
+          "cards/hub/pass/1.jpg",
+          "cards/hub/pass/2.jpg",
+          "cards/hub/pass/3.jpg",
+          "cards/hub/pass/4.jpg",
+          "cards/hub/pass/5.jpg",
+          "cards/hub/pass/6.jpg"
         ]
       },
       "power": {
         "title": "power",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/power/1.jpg",
-          "cards/hub200/power/2.jpg",
-          "cards/hub200/power/3.jpg",
-          "cards/hub200/power/4.jpg",
-          "cards/hub200/power/5.jpg",
-          "cards/hub200/power/6.jpg"
+          "cards/hub/power/1.jpg",
+          "cards/hub/power/2.jpg",
+          "cards/hub/power/3.jpg",
+          "cards/hub/power/4.jpg",
+          "cards/hub/power/5.jpg",
+          "cards/hub/power/6.jpg"
         ]
       },
       "resemble": {
         "title": "resemble",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/resemble/1.jpg",
-          "cards/hub200/resemble/2.jpg",
-          "cards/hub200/resemble/3.jpg",
-          "cards/hub200/resemble/4.jpg",
-          "cards/hub200/resemble/5.jpg",
-          "cards/hub200/resemble/6.jpg"
+          "cards/hub/resemble/1.jpg",
+          "cards/hub/resemble/2.jpg",
+          "cards/hub/resemble/3.jpg",
+          "cards/hub/resemble/4.jpg",
+          "cards/hub/resemble/5.jpg",
+          "cards/hub/resemble/6.jpg"
         ]
       },
       "right": {
         "title": "right",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/right/1.jpg",
-          "cards/hub200/right/2.jpg",
-          "cards/hub200/right/3.jpg",
-          "cards/hub200/right/4.jpg",
-          "cards/hub200/right/5.jpg",
-          "cards/hub200/right/6.jpg"
+          "cards/hub/right/1.jpg",
+          "cards/hub/right/2.jpg",
+          "cards/hub/right/3.jpg",
+          "cards/hub/right/4.jpg",
+          "cards/hub/right/5.jpg",
+          "cards/hub/right/6.jpg"
         ]
       },
       "seem": {
         "title": "seem",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/seem/1.jpg",
-          "cards/hub200/seem/2.jpg",
-          "cards/hub200/seem/3.jpg",
-          "cards/hub200/seem/4.jpg",
-          "cards/hub200/seem/5.jpg",
-          "cards/hub200/seem/6.jpg"
+          "cards/hub/seem/1.jpg",
+          "cards/hub/seem/2.jpg",
+          "cards/hub/seem/3.jpg",
+          "cards/hub/seem/4.jpg",
+          "cards/hub/seem/5.jpg",
+          "cards/hub/seem/6.jpg"
         ]
       },
       "stand": {
         "title": "stand",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/stand/1.jpg",
-          "cards/hub200/stand/2.jpg",
-          "cards/hub200/stand/3.jpg",
-          "cards/hub200/stand/4.jpg",
-          "cards/hub200/stand/5.jpg",
-          "cards/hub200/stand/6.jpg"
+          "cards/hub/stand/1.jpg",
+          "cards/hub/stand/2.jpg",
+          "cards/hub/stand/3.jpg",
+          "cards/hub/stand/4.jpg",
+          "cards/hub/stand/5.jpg",
+          "cards/hub/stand/6.jpg"
         ]
       },
       "thing": {
         "title": "thing",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/thing/1.jpg",
-          "cards/hub200/thing/2.jpg",
-          "cards/hub200/thing/3.jpg",
-          "cards/hub200/thing/4.jpg",
-          "cards/hub200/thing/5.jpg",
-          "cards/hub200/thing/6.jpg"
+          "cards/hub/thing/1.jpg",
+          "cards/hub/thing/2.jpg",
+          "cards/hub/thing/3.jpg",
+          "cards/hub/thing/4.jpg",
+          "cards/hub/thing/5.jpg",
+          "cards/hub/thing/6.jpg"
         ]
       },
       "absorb": {
         "title": "absorb",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/absorb/1.jpg",
-          "cards/hub200/absorb/2.jpg",
-          "cards/hub200/absorb/3.jpg",
-          "cards/hub200/absorb/4.jpg",
-          "cards/hub200/absorb/5.jpg",
-          "cards/hub200/absorb/6.jpg"
+          "cards/hub/absorb/1.jpg",
+          "cards/hub/absorb/2.jpg",
+          "cards/hub/absorb/3.jpg",
+          "cards/hub/absorb/4.jpg",
+          "cards/hub/absorb/5.jpg",
+          "cards/hub/absorb/6.jpg"
         ]
       },
       "acquire": {
         "title": "acquire",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/acquire/1.jpg",
-          "cards/hub200/acquire/2.jpg",
-          "cards/hub200/acquire/3.jpg",
-          "cards/hub200/acquire/4.jpg",
-          "cards/hub200/acquire/5.jpg",
-          "cards/hub200/acquire/6.jpg"
+          "cards/hub/acquire/1.jpg",
+          "cards/hub/acquire/2.jpg",
+          "cards/hub/acquire/3.jpg",
+          "cards/hub/acquire/4.jpg",
+          "cards/hub/acquire/5.jpg",
+          "cards/hub/acquire/6.jpg"
         ]
       },
       "alter": {
         "title": "alter",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/alter/1.jpg",
-          "cards/hub200/alter/2.jpg",
-          "cards/hub200/alter/3.jpg",
-          "cards/hub200/alter/4.jpg",
-          "cards/hub200/alter/5.jpg",
-          "cards/hub200/alter/6.jpg"
+          "cards/hub/alter/1.jpg",
+          "cards/hub/alter/2.jpg",
+          "cards/hub/alter/3.jpg",
+          "cards/hub/alter/4.jpg",
+          "cards/hub/alter/5.jpg",
+          "cards/hub/alter/6.jpg"
         ]
       },
       "aspire": {
         "title": "aspire",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/aspire/1.jpg",
-          "cards/hub200/aspire/2.jpg",
-          "cards/hub200/aspire/3.jpg",
-          "cards/hub200/aspire/4.jpg",
-          "cards/hub200/aspire/5.jpg",
-          "cards/hub200/aspire/6.jpg"
+          "cards/hub/aspire/1.jpg",
+          "cards/hub/aspire/2.jpg",
+          "cards/hub/aspire/3.jpg",
+          "cards/hub/aspire/4.jpg",
+          "cards/hub/aspire/5.jpg",
+          "cards/hub/aspire/6.jpg"
         ]
       },
       "back": {
         "title": "back",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/back/1.jpg",
-          "cards/hub200/back/2.jpg",
-          "cards/hub200/back/3.jpg",
-          "cards/hub200/back/4.jpg",
-          "cards/hub200/back/5.jpg",
-          "cards/hub200/back/6.jpg",
-          "cards/hub200/back/7.jpg"
+          "cards/hub/back/1.jpg",
+          "cards/hub/back/2.jpg",
+          "cards/hub/back/3.jpg",
+          "cards/hub/back/4.jpg",
+          "cards/hub/back/5.jpg",
+          "cards/hub/back/6.jpg",
+          "cards/hub/back/7.jpg"
         ]
       },
       "boast": {
         "title": "boast",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/boast/1.jpg",
-          "cards/hub200/boast/2.jpg",
-          "cards/hub200/boast/3.jpg",
-          "cards/hub200/boast/4.jpg",
-          "cards/hub200/boast/5.jpg",
-          "cards/hub200/boast/6.jpg"
+          "cards/hub/boast/1.jpg",
+          "cards/hub/boast/2.jpg",
+          "cards/hub/boast/3.jpg",
+          "cards/hub/boast/4.jpg",
+          "cards/hub/boast/5.jpg",
+          "cards/hub/boast/6.jpg"
         ]
       },
       "calculate": {
         "title": "calculate",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/calculate/1.jpg",
-          "cards/hub200/calculate/2.jpg",
-          "cards/hub200/calculate/3.jpg",
-          "cards/hub200/calculate/4.jpg",
-          "cards/hub200/calculate/5.jpg",
-          "cards/hub200/calculate/6.jpg"
+          "cards/hub/calculate/1.jpg",
+          "cards/hub/calculate/2.jpg",
+          "cards/hub/calculate/3.jpg",
+          "cards/hub/calculate/4.jpg",
+          "cards/hub/calculate/5.jpg",
+          "cards/hub/calculate/6.jpg"
         ]
       },
       "cause": {
         "title": "cause",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/cause/1.jpg",
-          "cards/hub200/cause/2.jpg",
-          "cards/hub200/cause/3.jpg",
-          "cards/hub200/cause/4.jpg",
-          "cards/hub200/cause/5.jpg",
-          "cards/hub200/cause/6.jpg"
+          "cards/hub/cause/1.jpg",
+          "cards/hub/cause/2.jpg",
+          "cards/hub/cause/3.jpg",
+          "cards/hub/cause/4.jpg",
+          "cards/hub/cause/5.jpg",
+          "cards/hub/cause/6.jpg"
         ]
       },
       "condition": {
         "title": "condition",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/condition/1.jpg",
-          "cards/hub200/condition/2.jpg",
-          "cards/hub200/condition/3.jpg",
-          "cards/hub200/condition/4.jpg",
-          "cards/hub200/condition/5.jpg",
-          "cards/hub200/condition/6.jpg"
+          "cards/hub/condition/1.jpg",
+          "cards/hub/condition/2.jpg",
+          "cards/hub/condition/3.jpg",
+          "cards/hub/condition/4.jpg",
+          "cards/hub/condition/5.jpg",
+          "cards/hub/condition/6.jpg"
         ]
       },
       "corps": {
         "title": "corps",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/corps/1.jpg",
-          "cards/hub200/corps/2.jpg",
-          "cards/hub200/corps/3.jpg",
-          "cards/hub200/corps/4.jpg",
-          "cards/hub200/corps/5.jpg",
-          "cards/hub200/corps/6.jpg"
+          "cards/hub/corps/1.jpg",
+          "cards/hub/corps/2.jpg",
+          "cards/hub/corps/3.jpg",
+          "cards/hub/corps/4.jpg",
+          "cards/hub/corps/5.jpg",
+          "cards/hub/corps/6.jpg"
         ]
       },
       "depict": {
         "title": "depict",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/depict/1.jpg",
-          "cards/hub200/depict/2.jpg",
-          "cards/hub200/depict/3.jpg",
-          "cards/hub200/depict/4.jpg",
-          "cards/hub200/depict/5.jpg",
-          "cards/hub200/depict/6.jpg"
+          "cards/hub/depict/1.jpg",
+          "cards/hub/depict/2.jpg",
+          "cards/hub/depict/3.jpg",
+          "cards/hub/depict/4.jpg",
+          "cards/hub/depict/5.jpg",
+          "cards/hub/depict/6.jpg"
         ]
       },
       "dispute": {
         "title": "dispute",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/dispute/1.jpg",
-          "cards/hub200/dispute/2.jpg",
-          "cards/hub200/dispute/3.jpg",
-          "cards/hub200/dispute/4.jpg",
-          "cards/hub200/dispute/5.jpg",
-          "cards/hub200/dispute/6.jpg"
+          "cards/hub/dispute/1.jpg",
+          "cards/hub/dispute/2.jpg",
+          "cards/hub/dispute/3.jpg",
+          "cards/hub/dispute/4.jpg",
+          "cards/hub/dispute/5.jpg",
+          "cards/hub/dispute/6.jpg"
         ]
       },
       "easy": {
         "title": "easy",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/easy/1.jpg",
-          "cards/hub200/easy/2.jpg",
-          "cards/hub200/easy/3.jpg",
-          "cards/hub200/easy/4.jpg",
-          "cards/hub200/easy/5.jpg",
-          "cards/hub200/easy/6.jpg"
+          "cards/hub/easy/1.jpg",
+          "cards/hub/easy/2.jpg",
+          "cards/hub/easy/3.jpg",
+          "cards/hub/easy/4.jpg",
+          "cards/hub/easy/5.jpg",
+          "cards/hub/easy/6.jpg"
         ]
       },
       "enchant": {
         "title": "enchant",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/enchant/1.jpg",
-          "cards/hub200/enchant/2.jpg",
-          "cards/hub200/enchant/3.jpg",
-          "cards/hub200/enchant/4.jpg",
-          "cards/hub200/enchant/5.jpg",
-          "cards/hub200/enchant/6.jpg"
+          "cards/hub/enchant/1.jpg",
+          "cards/hub/enchant/2.jpg",
+          "cards/hub/enchant/3.jpg",
+          "cards/hub/enchant/4.jpg",
+          "cards/hub/enchant/5.jpg",
+          "cards/hub/enchant/6.jpg"
         ]
       },
       "eye": {
         "title": "eye",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/eye/1.jpg",
-          "cards/hub200/eye/2.jpg",
-          "cards/hub200/eye/3.jpg",
-          "cards/hub200/eye/4.jpg",
-          "cards/hub200/eye/5.jpg",
-          "cards/hub200/eye/6.jpg"
+          "cards/hub/eye/1.jpg",
+          "cards/hub/eye/2.jpg",
+          "cards/hub/eye/3.jpg",
+          "cards/hub/eye/4.jpg",
+          "cards/hub/eye/5.jpg",
+          "cards/hub/eye/6.jpg"
         ]
       },
       "farewell": {
         "title": "farewell",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/farewell/1.jpg",
-          "cards/hub200/farewell/2.jpg",
-          "cards/hub200/farewell/3.jpg",
-          "cards/hub200/farewell/4.jpg",
-          "cards/hub200/farewell/5.jpg",
-          "cards/hub200/farewell/6.jpg"
+          "cards/hub/farewell/1.jpg",
+          "cards/hub/farewell/2.jpg",
+          "cards/hub/farewell/3.jpg",
+          "cards/hub/farewell/4.jpg",
+          "cards/hub/farewell/5.jpg",
+          "cards/hub/farewell/6.jpg"
         ]
       },
       "foot": {
         "title": "foot",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/foot/1.jpg",
-          "cards/hub200/foot/2.jpg",
-          "cards/hub200/foot/3.jpg",
-          "cards/hub200/foot/4.jpg",
-          "cards/hub200/foot/5.jpg",
-          "cards/hub200/foot/6.jpg"
+          "cards/hub/foot/1.jpg",
+          "cards/hub/foot/2.jpg",
+          "cards/hub/foot/3.jpg",
+          "cards/hub/foot/4.jpg",
+          "cards/hub/foot/5.jpg",
+          "cards/hub/foot/6.jpg"
         ]
       },
       "gaze": {
         "title": "gaze",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/gaze/1.jpg",
-          "cards/hub200/gaze/2.jpg",
-          "cards/hub200/gaze/3.jpg",
-          "cards/hub200/gaze/4.jpg",
-          "cards/hub200/gaze/5.jpg",
-          "cards/hub200/gaze/6.jpg"
+          "cards/hub/gaze/1.jpg",
+          "cards/hub/gaze/2.jpg",
+          "cards/hub/gaze/3.jpg",
+          "cards/hub/gaze/4.jpg",
+          "cards/hub/gaze/5.jpg",
+          "cards/hub/gaze/6.jpg"
         ]
       },
       "hard": {
         "title": "hard",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/hard/1.jpg",
-          "cards/hub200/hard/2.jpg",
-          "cards/hub200/hard/3.jpg",
-          "cards/hub200/hard/4.jpg",
-          "cards/hub200/hard/5.jpg",
-          "cards/hub200/hard/6.jpg"
+          "cards/hub/hard/1.jpg",
+          "cards/hub/hard/2.jpg",
+          "cards/hub/hard/3.jpg",
+          "cards/hub/hard/4.jpg",
+          "cards/hub/hard/5.jpg",
+          "cards/hub/hard/6.jpg"
         ]
       },
       "illustrate": {
         "title": "illustrate",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/illustrate/1.jpg",
-          "cards/hub200/illustrate/2.jpg",
-          "cards/hub200/illustrate/3.jpg",
-          "cards/hub200/illustrate/4.jpg",
-          "cards/hub200/illustrate/5.jpg",
-          "cards/hub200/illustrate/6.jpg"
+          "cards/hub/illustrate/1.jpg",
+          "cards/hub/illustrate/2.jpg",
+          "cards/hub/illustrate/3.jpg",
+          "cards/hub/illustrate/4.jpg",
+          "cards/hub/illustrate/5.jpg",
+          "cards/hub/illustrate/6.jpg"
         ]
       },
       "influence": {
         "title": "influence",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/influence/1.jpg",
-          "cards/hub200/influence/2.jpg",
-          "cards/hub200/influence/3.jpg",
-          "cards/hub200/influence/4.jpg",
-          "cards/hub200/influence/5.jpg",
-          "cards/hub200/influence/6.jpg"
+          "cards/hub/influence/1.jpg",
+          "cards/hub/influence/2.jpg",
+          "cards/hub/influence/3.jpg",
+          "cards/hub/influence/4.jpg",
+          "cards/hub/influence/5.jpg",
+          "cards/hub/influence/6.jpg"
         ]
       },
       "inspire": {
         "title": "inspire",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/inspire/1.jpg",
-          "cards/hub200/inspire/2.jpg",
-          "cards/hub200/inspire/3.jpg",
-          "cards/hub200/inspire/4.jpg",
-          "cards/hub200/inspire/5.jpg",
-          "cards/hub200/inspire/6.jpg"
+          "cards/hub/inspire/1.jpg",
+          "cards/hub/inspire/2.jpg",
+          "cards/hub/inspire/3.jpg",
+          "cards/hub/inspire/4.jpg",
+          "cards/hub/inspire/5.jpg",
+          "cards/hub/inspire/6.jpg"
         ]
       },
       "leave": {
         "title": "leave",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/leave/1.jpg",
-          "cards/hub200/leave/2.jpg",
-          "cards/hub200/leave/3.jpg",
-          "cards/hub200/leave/4.jpg",
-          "cards/hub200/leave/5.jpg",
-          "cards/hub200/leave/6.jpg"
+          "cards/hub/leave/1.jpg",
+          "cards/hub/leave/2.jpg",
+          "cards/hub/leave/3.jpg",
+          "cards/hub/leave/4.jpg",
+          "cards/hub/leave/5.jpg",
+          "cards/hub/leave/6.jpg"
         ]
       },
       "low": {
         "title": "low",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/low/1.jpg",
-          "cards/hub200/low/2.jpg",
-          "cards/hub200/low/3.jpg",
-          "cards/hub200/low/4.jpg",
-          "cards/hub200/low/5.jpg",
-          "cards/hub200/low/6.jpg"
+          "cards/hub/low/1.jpg",
+          "cards/hub/low/2.jpg",
+          "cards/hub/low/3.jpg",
+          "cards/hub/low/4.jpg",
+          "cards/hub/low/5.jpg",
+          "cards/hub/low/6.jpg"
         ]
       },
       "modify": {
         "title": "modify",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/modify/1.jpg",
-          "cards/hub200/modify/2.jpg",
-          "cards/hub200/modify/3.jpg",
-          "cards/hub200/modify/4.jpg",
-          "cards/hub200/modify/5.jpg",
-          "cards/hub200/modify/6.jpg"
+          "cards/hub/modify/1.jpg",
+          "cards/hub/modify/2.jpg",
+          "cards/hub/modify/3.jpg",
+          "cards/hub/modify/4.jpg",
+          "cards/hub/modify/5.jpg",
+          "cards/hub/modify/6.jpg"
         ]
       },
       "object": {
         "title": "object",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/object/1.jpg",
-          "cards/hub200/object/2.jpg",
-          "cards/hub200/object/3.jpg",
-          "cards/hub200/object/4.jpg",
-          "cards/hub200/object/5.jpg",
-          "cards/hub200/object/6.jpg"
+          "cards/hub/object/1.jpg",
+          "cards/hub/object/2.jpg",
+          "cards/hub/object/3.jpg",
+          "cards/hub/object/4.jpg",
+          "cards/hub/object/5.jpg",
+          "cards/hub/object/6.jpg"
         ]
       },
       "penetrate": {
         "title": "penetrate",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/penetrate/1.jpg",
-          "cards/hub200/penetrate/2.jpg",
-          "cards/hub200/penetrate/3.jpg",
-          "cards/hub200/penetrate/4.jpg",
-          "cards/hub200/penetrate/5.jpg",
-          "cards/hub200/penetrate/6.jpg"
+          "cards/hub/penetrate/1.jpg",
+          "cards/hub/penetrate/2.jpg",
+          "cards/hub/penetrate/3.jpg",
+          "cards/hub/penetrate/4.jpg",
+          "cards/hub/penetrate/5.jpg",
+          "cards/hub/penetrate/6.jpg"
         ]
       },
       "provide": {
         "title": "provide",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/provide/1.jpg",
-          "cards/hub200/provide/2.jpg",
-          "cards/hub200/provide/3.jpg",
-          "cards/hub200/provide/4.jpg",
-          "cards/hub200/provide/5.jpg",
-          "cards/hub200/provide/6.jpg"
+          "cards/hub/provide/1.jpg",
+          "cards/hub/provide/2.jpg",
+          "cards/hub/provide/3.jpg",
+          "cards/hub/provide/4.jpg",
+          "cards/hub/provide/5.jpg",
+          "cards/hub/provide/6.jpg"
         ]
       },
       "reside": {
         "title": "reside",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/reside/1.jpg",
-          "cards/hub200/reside/2.jpg",
-          "cards/hub200/reside/3.jpg",
-          "cards/hub200/reside/4.jpg",
-          "cards/hub200/reside/5.jpg",
-          "cards/hub200/reside/6.jpg"
+          "cards/hub/reside/1.jpg",
+          "cards/hub/reside/2.jpg",
+          "cards/hub/reside/3.jpg",
+          "cards/hub/reside/4.jpg",
+          "cards/hub/reside/5.jpg",
+          "cards/hub/reside/6.jpg"
         ]
       },
       "rob": {
         "title": "rob",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/rob/1.jpg",
-          "cards/hub200/rob/2.jpg",
-          "cards/hub200/rob/3.jpg",
-          "cards/hub200/rob/4.jpg",
-          "cards/hub200/rob/5.jpg",
-          "cards/hub200/rob/6.jpg"
+          "cards/hub/rob/1.jpg",
+          "cards/hub/rob/2.jpg",
+          "cards/hub/rob/3.jpg",
+          "cards/hub/rob/4.jpg",
+          "cards/hub/rob/5.jpg",
+          "cards/hub/rob/6.jpg"
         ]
       },
       "sense": {
         "title": "sense",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/sense/1.jpg",
-          "cards/hub200/sense/2.jpg",
-          "cards/hub200/sense/3.jpg",
-          "cards/hub200/sense/4.jpg",
-          "cards/hub200/sense/5.jpg",
-          "cards/hub200/sense/6.jpg"
+          "cards/hub/sense/1.jpg",
+          "cards/hub/sense/2.jpg",
+          "cards/hub/sense/3.jpg",
+          "cards/hub/sense/4.jpg",
+          "cards/hub/sense/5.jpg",
+          "cards/hub/sense/6.jpg"
         ]
       },
       "steer": {
         "title": "steer",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/steer/1.jpg",
-          "cards/hub200/steer/2.jpg",
-          "cards/hub200/steer/3.jpg",
-          "cards/hub200/steer/4.jpg",
-          "cards/hub200/steer/5.jpg",
-          "cards/hub200/steer/6.jpg"
+          "cards/hub/steer/1.jpg",
+          "cards/hub/steer/2.jpg",
+          "cards/hub/steer/3.jpg",
+          "cards/hub/steer/4.jpg",
+          "cards/hub/steer/5.jpg",
+          "cards/hub/steer/6.jpg"
         ]
       },
       "way": {
         "title": "way",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/way/1.jpg",
-          "cards/hub200/way/2.jpg",
-          "cards/hub200/way/3.jpg",
-          "cards/hub200/way/4.jpg",
-          "cards/hub200/way/5.jpg",
-          "cards/hub200/way/6.jpg"
+          "cards/hub/way/1.jpg",
+          "cards/hub/way/2.jpg",
+          "cards/hub/way/3.jpg",
+          "cards/hub/way/4.jpg",
+          "cards/hub/way/5.jpg",
+          "cards/hub/way/6.jpg"
         ]
       },
       "accelerate": {
         "title": "accelerate",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/accelerate/1.jpg",
-          "cards/hub200/accelerate/2.jpg",
-          "cards/hub200/accelerate/3.jpg",
-          "cards/hub200/accelerate/4.jpg",
-          "cards/hub200/accelerate/5.jpg",
-          "cards/hub200/accelerate/6.jpg"
+          "cards/hub/accelerate/1.jpg",
+          "cards/hub/accelerate/2.jpg",
+          "cards/hub/accelerate/3.jpg",
+          "cards/hub/accelerate/4.jpg",
+          "cards/hub/accelerate/5.jpg",
+          "cards/hub/accelerate/6.jpg"
         ]
       },
       "adjust": {
         "title": "adjust",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/adjust/1.jpg",
-          "cards/hub200/adjust/2.jpg",
-          "cards/hub200/adjust/3.jpg",
-          "cards/hub200/adjust/4.jpg",
-          "cards/hub200/adjust/5.jpg",
-          "cards/hub200/adjust/6.jpg"
+          "cards/hub/adjust/1.jpg",
+          "cards/hub/adjust/2.jpg",
+          "cards/hub/adjust/3.jpg",
+          "cards/hub/adjust/4.jpg",
+          "cards/hub/adjust/5.jpg",
+          "cards/hub/adjust/6.jpg"
         ]
       },
       "amaze": {
         "title": "amaze",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/amaze/1.jpg",
-          "cards/hub200/amaze/2.jpg",
-          "cards/hub200/amaze/3.jpg",
-          "cards/hub200/amaze/4.jpg",
-          "cards/hub200/amaze/5.jpg",
-          "cards/hub200/amaze/6.jpg"
+          "cards/hub/amaze/1.jpg",
+          "cards/hub/amaze/2.jpg",
+          "cards/hub/amaze/3.jpg",
+          "cards/hub/amaze/4.jpg",
+          "cards/hub/amaze/5.jpg",
+          "cards/hub/amaze/6.jpg"
         ]
       },
       "astonish": {
         "title": "astonish",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/astonish/1.jpg",
-          "cards/hub200/astonish/2.jpg",
-          "cards/hub200/astonish/3.jpg",
-          "cards/hub200/astonish/4.jpg",
-          "cards/hub200/astonish/5.jpg",
-          "cards/hub200/astonish/6.jpg"
+          "cards/hub/astonish/1.jpg",
+          "cards/hub/astonish/2.jpg",
+          "cards/hub/astonish/3.jpg",
+          "cards/hub/astonish/4.jpg",
+          "cards/hub/astonish/5.jpg",
+          "cards/hub/astonish/6.jpg"
         ]
       },
       "betray": {
         "title": "betray",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/betray/1.jpg",
-          "cards/hub200/betray/2.jpg",
-          "cards/hub200/betray/3.jpg",
-          "cards/hub200/betray/4.jpg",
-          "cards/hub200/betray/5.jpg",
-          "cards/hub200/betray/6.jpg"
+          "cards/hub/betray/1.jpg",
+          "cards/hub/betray/2.jpg",
+          "cards/hub/betray/3.jpg",
+          "cards/hub/betray/4.jpg",
+          "cards/hub/betray/5.jpg",
+          "cards/hub/betray/6.jpg"
         ]
       },
       "body": {
         "title": "body",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/body/1.jpg",
-          "cards/hub200/body/2.jpg",
-          "cards/hub200/body/3.jpg",
-          "cards/hub200/body/4.jpg",
-          "cards/hub200/body/5.jpg",
-          "cards/hub200/body/6.jpg"
+          "cards/hub/body/1.jpg",
+          "cards/hub/body/2.jpg",
+          "cards/hub/body/3.jpg",
+          "cards/hub/body/4.jpg",
+          "cards/hub/body/5.jpg",
+          "cards/hub/body/6.jpg"
         ]
       },
       "can": {
         "title": "can",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/can/1.jpg",
-          "cards/hub200/can/2.jpg",
-          "cards/hub200/can/3.jpg",
-          "cards/hub200/can/4.jpg",
-          "cards/hub200/can/5.jpg",
-          "cards/hub200/can/6.jpg"
+          "cards/hub/can/1.jpg",
+          "cards/hub/can/2.jpg",
+          "cards/hub/can/3.jpg",
+          "cards/hub/can/4.jpg",
+          "cards/hub/can/5.jpg",
+          "cards/hub/can/6.jpg"
         ]
       },
       "clear": {
         "title": "clear",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/clear/1.jpg",
-          "cards/hub200/clear/2.jpg",
-          "cards/hub200/clear/3.jpg",
-          "cards/hub200/clear/4.jpg",
-          "cards/hub200/clear/5.jpg",
-          "cards/hub200/clear/6.jpg"
+          "cards/hub/clear/1.jpg",
+          "cards/hub/clear/2.jpg",
+          "cards/hub/clear/3.jpg",
+          "cards/hub/clear/4.jpg",
+          "cards/hub/clear/5.jpg",
+          "cards/hub/clear/6.jpg"
         ]
       },
       "conecpt": {
         "title": "conecpt",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/conecpt/1.jpg",
-          "cards/hub200/conecpt/2.jpg",
-          "cards/hub200/conecpt/3.jpg",
-          "cards/hub200/conecpt/4.jpg",
-          "cards/hub200/conecpt/5.jpg",
-          "cards/hub200/conecpt/6.jpg"
+          "cards/hub/conecpt/1.jpg",
+          "cards/hub/conecpt/2.jpg",
+          "cards/hub/conecpt/3.jpg",
+          "cards/hub/conecpt/4.jpg",
+          "cards/hub/conecpt/5.jpg",
+          "cards/hub/conecpt/6.jpg"
         ]
       },
       "dark": {
         "title": "dark",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/dark/1.jpg",
-          "cards/hub200/dark/2.jpg",
-          "cards/hub200/dark/3.jpg",
-          "cards/hub200/dark/4.jpg",
-          "cards/hub200/dark/5.jpg",
-          "cards/hub200/dark/6.jpg"
+          "cards/hub/dark/1.jpg",
+          "cards/hub/dark/2.jpg",
+          "cards/hub/dark/3.jpg",
+          "cards/hub/dark/4.jpg",
+          "cards/hub/dark/5.jpg",
+          "cards/hub/dark/6.jpg"
         ]
       },
       "derive": {
         "title": "derive",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/derive/1.jpg",
-          "cards/hub200/derive/2.jpg",
-          "cards/hub200/derive/3.jpg",
-          "cards/hub200/derive/4.jpg",
-          "cards/hub200/derive/5.jpg",
-          "cards/hub200/derive/6.jpg"
+          "cards/hub/derive/1.jpg",
+          "cards/hub/derive/2.jpg",
+          "cards/hub/derive/3.jpg",
+          "cards/hub/derive/4.jpg",
+          "cards/hub/derive/5.jpg",
+          "cards/hub/derive/6.jpg"
         ]
       },
       "distract": {
         "title": "distract",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/distract/1.jpg",
-          "cards/hub200/distract/2.jpg",
-          "cards/hub200/distract/3.jpg",
-          "cards/hub200/distract/4.jpg",
-          "cards/hub200/distract/5.jpg",
-          "cards/hub200/distract/6.jpg"
+          "cards/hub/distract/1.jpg",
+          "cards/hub/distract/2.jpg",
+          "cards/hub/distract/3.jpg",
+          "cards/hub/distract/4.jpg",
+          "cards/hub/distract/5.jpg",
+          "cards/hub/distract/6.jpg"
         ]
       },
       "edge": {
         "title": "edge",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/edge/1.jpg",
-          "cards/hub200/edge/2.jpg",
-          "cards/hub200/edge/3.jpg",
-          "cards/hub200/edge/4.jpg",
-          "cards/hub200/edge/5.jpg",
-          "cards/hub200/edge/6.jpg"
+          "cards/hub/edge/1.jpg",
+          "cards/hub/edge/2.jpg",
+          "cards/hub/edge/3.jpg",
+          "cards/hub/edge/4.jpg",
+          "cards/hub/edge/5.jpg",
+          "cards/hub/edge/6.jpg"
         ]
       },
       "endeavor": {
         "title": "endeavor",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/endeavor/1.jpg",
-          "cards/hub200/endeavor/2.jpg",
-          "cards/hub200/endeavor/3.jpg",
-          "cards/hub200/endeavor/4.jpg",
-          "cards/hub200/endeavor/5.jpg",
-          "cards/hub200/endeavor/6.jpg"
+          "cards/hub/endeavor/1.jpg",
+          "cards/hub/endeavor/2.jpg",
+          "cards/hub/endeavor/3.jpg",
+          "cards/hub/endeavor/4.jpg",
+          "cards/hub/endeavor/5.jpg",
+          "cards/hub/endeavor/6.jpg"
         ]
       },
       "fade": {
         "title": "fade",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/fade/1.jpg",
-          "cards/hub200/fade/2.jpg",
-          "cards/hub200/fade/3.jpg",
-          "cards/hub200/fade/4.jpg",
-          "cards/hub200/fade/5.jpg",
-          "cards/hub200/fade/6.jpg"
+          "cards/hub/fade/1.jpg",
+          "cards/hub/fade/2.jpg",
+          "cards/hub/fade/3.jpg",
+          "cards/hub/fade/4.jpg",
+          "cards/hub/fade/5.jpg",
+          "cards/hub/fade/6.jpg"
         ]
       },
       "fascinate": {
         "title": "fascinate",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/fascinate/1.jpg",
-          "cards/hub200/fascinate/2.jpg",
-          "cards/hub200/fascinate/3.jpg",
-          "cards/hub200/fascinate/4.jpg",
-          "cards/hub200/fascinate/5.jpg",
-          "cards/hub200/fascinate/6.jpg"
+          "cards/hub/fascinate/1.jpg",
+          "cards/hub/fascinate/2.jpg",
+          "cards/hub/fascinate/3.jpg",
+          "cards/hub/fascinate/4.jpg",
+          "cards/hub/fascinate/5.jpg",
+          "cards/hub/fascinate/6.jpg"
         ]
       },
       "force": {
         "title": "force",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/force/1.jpg",
-          "cards/hub200/force/2.jpg",
-          "cards/hub200/force/3.jpg",
-          "cards/hub200/force/4.jpg",
-          "cards/hub200/force/5.jpg",
-          "cards/hub200/force/6.jpg"
+          "cards/hub/force/1.jpg",
+          "cards/hub/force/2.jpg",
+          "cards/hub/force/3.jpg",
+          "cards/hub/force/4.jpg",
+          "cards/hub/force/5.jpg",
+          "cards/hub/force/6.jpg"
         ]
       },
       "gossip": {
         "title": "gossip",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/gossip/1.jpg",
-          "cards/hub200/gossip/2.jpg",
-          "cards/hub200/gossip/3.jpg",
-          "cards/hub200/gossip/4.jpg",
-          "cards/hub200/gossip/5.jpg",
-          "cards/hub200/gossip/6.jpg"
+          "cards/hub/gossip/1.jpg",
+          "cards/hub/gossip/2.jpg",
+          "cards/hub/gossip/3.jpg",
+          "cards/hub/gossip/4.jpg",
+          "cards/hub/gossip/5.jpg",
+          "cards/hub/gossip/6.jpg"
         ]
       },
       "head": {
         "title": "head",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/head/1.jpg",
-          "cards/hub200/head/2.jpg",
-          "cards/hub200/head/3.jpg",
-          "cards/hub200/head/4.jpg",
-          "cards/hub200/head/5.jpg",
-          "cards/hub200/head/6.jpg"
+          "cards/hub/head/1.jpg",
+          "cards/hub/head/2.jpg",
+          "cards/hub/head/3.jpg",
+          "cards/hub/head/4.jpg",
+          "cards/hub/head/5.jpg",
+          "cards/hub/head/6.jpg"
         ]
       },
       "impose": {
         "title": "impose",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/impose/1.jpg",
-          "cards/hub200/impose/2.jpg",
-          "cards/hub200/impose/3.jpg",
-          "cards/hub200/impose/4.jpg",
-          "cards/hub200/impose/5.jpg",
-          "cards/hub200/impose/6.jpg"
+          "cards/hub/impose/1.jpg",
+          "cards/hub/impose/2.jpg",
+          "cards/hub/impose/3.jpg",
+          "cards/hub/impose/4.jpg",
+          "cards/hub/impose/5.jpg",
+          "cards/hub/impose/6.jpg"
         ]
       },
       "inherit": {
         "title": "inherit",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/inherit/1.jpg",
-          "cards/hub200/inherit/2.jpg",
-          "cards/hub200/inherit/3.jpg",
-          "cards/hub200/inherit/4.jpg",
-          "cards/hub200/inherit/5.jpg",
-          "cards/hub200/inherit/6.jpg"
+          "cards/hub/inherit/1.jpg",
+          "cards/hub/inherit/2.jpg",
+          "cards/hub/inherit/3.jpg",
+          "cards/hub/inherit/4.jpg",
+          "cards/hub/inherit/5.jpg",
+          "cards/hub/inherit/6.jpg"
         ]
       },
       "invest": {
         "title": "invest",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/invest/1.jpg",
-          "cards/hub200/invest/2.jpg",
-          "cards/hub200/invest/3.jpg",
-          "cards/hub200/invest/4.jpg",
-          "cards/hub200/invest/5.jpg",
-          "cards/hub200/invest/6.jpg"
+          "cards/hub/invest/1.jpg",
+          "cards/hub/invest/2.jpg",
+          "cards/hub/invest/3.jpg",
+          "cards/hub/invest/4.jpg",
+          "cards/hub/invest/5.jpg",
+          "cards/hub/invest/6.jpg"
         ]
       },
       "let": {
         "title": "let",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/let/1.jpg",
-          "cards/hub200/let/2.jpg",
-          "cards/hub200/let/3.jpg",
-          "cards/hub200/let/4.jpg",
-          "cards/hub200/let/5.jpg",
-          "cards/hub200/let/6.jpg"
+          "cards/hub/let/1.jpg",
+          "cards/hub/let/2.jpg",
+          "cards/hub/let/3.jpg",
+          "cards/hub/let/4.jpg",
+          "cards/hub/let/5.jpg",
+          "cards/hub/let/6.jpg"
         ]
       },
       "matter": {
         "title": "matter",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/matter/1.jpg",
-          "cards/hub200/matter/2.jpg",
-          "cards/hub200/matter/3.jpg",
-          "cards/hub200/matter/4.jpg",
-          "cards/hub200/matter/5.jpg",
-          "cards/hub200/matter/6.jpg"
+          "cards/hub/matter/1.jpg",
+          "cards/hub/matter/2.jpg",
+          "cards/hub/matter/3.jpg",
+          "cards/hub/matter/4.jpg",
+          "cards/hub/matter/5.jpg",
+          "cards/hub/matter/6.jpg"
         ]
       },
       "mouth": {
         "title": "mouth",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/mouth/1.jpg",
-          "cards/hub200/mouth/2.jpg",
-          "cards/hub200/mouth/3.jpg",
-          "cards/hub200/mouth/4.jpg",
-          "cards/hub200/mouth/5.jpg",
-          "cards/hub200/mouth/6.jpg"
+          "cards/hub/mouth/1.jpg",
+          "cards/hub/mouth/2.jpg",
+          "cards/hub/mouth/3.jpg",
+          "cards/hub/mouth/4.jpg",
+          "cards/hub/mouth/5.jpg",
+          "cards/hub/mouth/6.jpg"
         ]
       },
       "oblige": {
         "title": "oblige",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/oblige/1.jpg",
-          "cards/hub200/oblige/2.jpg",
-          "cards/hub200/oblige/3.jpg",
-          "cards/hub200/oblige/4.jpg",
-          "cards/hub200/oblige/5.jpg",
-          "cards/hub200/oblige/6.jpg"
+          "cards/hub/oblige/1.jpg",
+          "cards/hub/oblige/2.jpg",
+          "cards/hub/oblige/3.jpg",
+          "cards/hub/oblige/4.jpg",
+          "cards/hub/oblige/5.jpg",
+          "cards/hub/oblige/6.jpg"
         ]
       },
       "persuade": {
         "title": "persuade",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/persuade/1.jpg",
-          "cards/hub200/persuade/2.jpg",
-          "cards/hub200/persuade/3.jpg",
-          "cards/hub200/persuade/4.jpg",
-          "cards/hub200/persuade/5.jpg",
-          "cards/hub200/persuade/6.jpg"
+          "cards/hub/persuade/1.jpg",
+          "cards/hub/persuade/2.jpg",
+          "cards/hub/persuade/3.jpg",
+          "cards/hub/persuade/4.jpg",
+          "cards/hub/persuade/5.jpg",
+          "cards/hub/persuade/6.jpg"
         ]
       },
       "remain": {
         "title": "remain",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/remain/1.jpg",
-          "cards/hub200/remain/2.jpg",
-          "cards/hub200/remain/3.jpg",
-          "cards/hub200/remain/4.jpg",
-          "cards/hub200/remain/5.jpg",
-          "cards/hub200/remain/6.jpg"
+          "cards/hub/remain/1.jpg",
+          "cards/hub/remain/2.jpg",
+          "cards/hub/remain/3.jpg",
+          "cards/hub/remain/4.jpg",
+          "cards/hub/remain/5.jpg",
+          "cards/hub/remain/6.jpg"
         ]
       },
       "result": {
         "title": "result",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/result/1.jpg",
-          "cards/hub200/result/2.jpg",
-          "cards/hub200/result/3.jpg",
-          "cards/hub200/result/4.jpg",
-          "cards/hub200/result/5.jpg",
-          "cards/hub200/result/6.jpg"
+          "cards/hub/result/1.jpg",
+          "cards/hub/result/2.jpg",
+          "cards/hub/result/3.jpg",
+          "cards/hub/result/4.jpg",
+          "cards/hub/result/5.jpg",
+          "cards/hub/result/6.jpg"
         ]
       },
       "room": {
         "title": "room",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/room/1.jpg",
-          "cards/hub200/room/2.jpg",
-          "cards/hub200/room/3.jpg",
-          "cards/hub200/room/4.jpg",
-          "cards/hub200/room/5.jpg",
-          "cards/hub200/room/6.jpg"
+          "cards/hub/room/1.jpg",
+          "cards/hub/room/2.jpg",
+          "cards/hub/room/3.jpg",
+          "cards/hub/room/4.jpg",
+          "cards/hub/room/5.jpg",
+          "cards/hub/room/6.jpg"
         ]
       },
       "side": {
         "title": "side",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/side/1.jpg",
-          "cards/hub200/side/2.jpg",
-          "cards/hub200/side/3.jpg",
-          "cards/hub200/side/4.jpg",
-          "cards/hub200/side/5.jpg",
-          "cards/hub200/side/6.jpg"
+          "cards/hub/side/1.jpg",
+          "cards/hub/side/2.jpg",
+          "cards/hub/side/3.jpg",
+          "cards/hub/side/4.jpg",
+          "cards/hub/side/5.jpg",
+          "cards/hub/side/6.jpg"
         ]
       },
       "strong": {
         "title": "strong",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/strong/1.jpg",
-          "cards/hub200/strong/2.jpg",
-          "cards/hub200/strong/3.jpg",
-          "cards/hub200/strong/4.jpg",
-          "cards/hub200/strong/5.jpg",
-          "cards/hub200/strong/6.jpg"
+          "cards/hub/strong/1.jpg",
+          "cards/hub/strong/2.jpg",
+          "cards/hub/strong/3.jpg",
+          "cards/hub/strong/4.jpg",
+          "cards/hub/strong/5.jpg",
+          "cards/hub/strong/6.jpg"
         ]
       },
       "weak": {
         "title": "weak",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/weak/1.jpg",
-          "cards/hub200/weak/2.jpg",
-          "cards/hub200/weak/3.jpg",
-          "cards/hub200/weak/4.jpg",
-          "cards/hub200/weak/5.jpg",
-          "cards/hub200/weak/6.jpg"
+          "cards/hub/weak/1.jpg",
+          "cards/hub/weak/2.jpg",
+          "cards/hub/weak/3.jpg",
+          "cards/hub/weak/4.jpg",
+          "cards/hub/weak/5.jpg",
+          "cards/hub/weak/6.jpg"
         ]
       },
       "accumulate": {
         "title": "accumulate",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/accumulate/1.jpg",
-          "cards/hub200/accumulate/2.jpg",
-          "cards/hub200/accumulate/3.jpg",
-          "cards/hub200/accumulate/4.jpg",
-          "cards/hub200/accumulate/5.jpg",
-          "cards/hub200/accumulate/6.jpg"
+          "cards/hub/accumulate/1.jpg",
+          "cards/hub/accumulate/2.jpg",
+          "cards/hub/accumulate/3.jpg",
+          "cards/hub/accumulate/4.jpg",
+          "cards/hub/accumulate/5.jpg",
+          "cards/hub/accumulate/6.jpg"
         ]
       },
       "affect": {
         "title": "affect",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/affect/1.jpg",
-          "cards/hub200/affect/2.jpg",
-          "cards/hub200/affect/3.jpg",
-          "cards/hub200/affect/4.jpg",
-          "cards/hub200/affect/5.jpg",
-          "cards/hub200/affect/6.jpg"
+          "cards/hub/affect/1.jpg",
+          "cards/hub/affect/2.jpg",
+          "cards/hub/affect/3.jpg",
+          "cards/hub/affect/4.jpg",
+          "cards/hub/affect/5.jpg",
+          "cards/hub/affect/6.jpg"
         ]
       },
       "arm": {
         "title": "arm",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/arm/1.jpg",
-          "cards/hub200/arm/2.jpg",
-          "cards/hub200/arm/3.jpg",
-          "cards/hub200/arm/4.jpg",
-          "cards/hub200/arm/5.jpg",
-          "cards/hub200/arm/6.jpg"
+          "cards/hub/arm/1.jpg",
+          "cards/hub/arm/2.jpg",
+          "cards/hub/arm/3.jpg",
+          "cards/hub/arm/4.jpg",
+          "cards/hub/arm/5.jpg",
+          "cards/hub/arm/6.jpg"
         ]
       },
       "attain": {
         "title": "attain",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/attain/1.jpg",
-          "cards/hub200/attain/2.jpg",
-          "cards/hub200/attain/3.jpg",
-          "cards/hub200/attain/4.jpg",
-          "cards/hub200/attain/5.jpg",
-          "cards/hub200/attain/6.jpg"
+          "cards/hub/attain/1.jpg",
+          "cards/hub/attain/2.jpg",
+          "cards/hub/attain/3.jpg",
+          "cards/hub/attain/4.jpg",
+          "cards/hub/attain/5.jpg",
+          "cards/hub/attain/6.jpg"
         ]
       },
       "beware": {
         "title": "beware",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/beware/1.jpg",
-          "cards/hub200/beware/2.jpg",
-          "cards/hub200/beware/3.jpg",
-          "cards/hub200/beware/4.jpg",
-          "cards/hub200/beware/5.jpg",
-          "cards/hub200/beware/6.jpg",
-          "cards/hub200/beware/7.jpg"
+          "cards/hub/beware/1.jpg",
+          "cards/hub/beware/2.jpg",
+          "cards/hub/beware/3.jpg",
+          "cards/hub/beware/4.jpg",
+          "cards/hub/beware/5.jpg",
+          "cards/hub/beware/6.jpg",
+          "cards/hub/beware/7.jpg"
         ]
       },
       "break": {
         "title": "break",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/break/1.jpg",
-          "cards/hub200/break/2.jpg",
-          "cards/hub200/break/3.jpg",
-          "cards/hub200/break/4.jpg",
-          "cards/hub200/break/5.jpg",
-          "cards/hub200/break/6.jpg"
+          "cards/hub/break/1.jpg",
+          "cards/hub/break/2.jpg",
+          "cards/hub/break/3.jpg",
+          "cards/hub/break/4.jpg",
+          "cards/hub/break/5.jpg",
+          "cards/hub/break/6.jpg"
         ]
       },
       "case": {
         "title": "case",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/case/1.jpg",
-          "cards/hub200/case/2.jpg",
-          "cards/hub200/case/3.jpg",
-          "cards/hub200/case/4.jpg",
-          "cards/hub200/case/5.jpg",
-          "cards/hub200/case/6.jpg"
+          "cards/hub/case/1.jpg",
+          "cards/hub/case/2.jpg",
+          "cards/hub/case/3.jpg",
+          "cards/hub/case/4.jpg",
+          "cards/hub/case/5.jpg",
+          "cards/hub/case/6.jpg"
         ]
       },
       "collide": {
         "title": "collide",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/collide/1.jpg",
-          "cards/hub200/collide/2.jpg",
-          "cards/hub200/collide/3.jpg",
-          "cards/hub200/collide/4.jpg",
-          "cards/hub200/collide/5.jpg",
-          "cards/hub200/collide/6.jpg"
+          "cards/hub/collide/1.jpg",
+          "cards/hub/collide/2.jpg",
+          "cards/hub/collide/3.jpg",
+          "cards/hub/collide/4.jpg",
+          "cards/hub/collide/5.jpg",
+          "cards/hub/collide/6.jpg"
         ]
       },
       "confuse": {
         "title": "confuse",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/confuse/1.jpg",
-          "cards/hub200/confuse/2.jpg",
-          "cards/hub200/confuse/3.jpg",
-          "cards/hub200/confuse/4.jpg",
-          "cards/hub200/confuse/5.jpg",
-          "cards/hub200/confuse/6.jpg"
+          "cards/hub/confuse/1.jpg",
+          "cards/hub/confuse/2.jpg",
+          "cards/hub/confuse/3.jpg",
+          "cards/hub/confuse/4.jpg",
+          "cards/hub/confuse/5.jpg",
+          "cards/hub/confuse/6.jpg"
         ]
       },
       "debate": {
         "title": "debate",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/debate/1.jpg",
-          "cards/hub200/debate/2.jpg",
-          "cards/hub200/debate/3.jpg",
-          "cards/hub200/debate/4.jpg",
-          "cards/hub200/debate/5.jpg",
-          "cards/hub200/debate/6.jpg"
+          "cards/hub/debate/1.jpg",
+          "cards/hub/debate/2.jpg",
+          "cards/hub/debate/3.jpg",
+          "cards/hub/debate/4.jpg",
+          "cards/hub/debate/5.jpg",
+          "cards/hub/debate/6.jpg"
         ]
       },
       "describe": {
         "title": "describe",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/describe/1.jpg",
-          "cards/hub200/describe/2.jpg",
-          "cards/hub200/describe/3.jpg",
-          "cards/hub200/describe/4.jpg",
-          "cards/hub200/describe/5.jpg",
-          "cards/hub200/describe/6.jpg"
+          "cards/hub/describe/1.jpg",
+          "cards/hub/describe/2.jpg",
+          "cards/hub/describe/3.jpg",
+          "cards/hub/describe/4.jpg",
+          "cards/hub/describe/5.jpg",
+          "cards/hub/describe/6.jpg"
         ]
       },
       "dominate": {
         "title": "dominate",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/dominate/1.jpg",
-          "cards/hub200/dominate/2.jpg",
-          "cards/hub200/dominate/3.jpg",
-          "cards/hub200/dominate/4.jpg",
-          "cards/hub200/dominate/5.jpg",
-          "cards/hub200/dominate/6.jpg"
+          "cards/hub/dominate/1.jpg",
+          "cards/hub/dominate/2.jpg",
+          "cards/hub/dominate/3.jpg",
+          "cards/hub/dominate/4.jpg",
+          "cards/hub/dominate/5.jpg",
+          "cards/hub/dominate/6.jpg"
         ]
       },
       "emerge": {
         "title": "emerge",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/emerge/1.jpg",
-          "cards/hub200/emerge/2.jpg",
-          "cards/hub200/emerge/3.jpg",
-          "cards/hub200/emerge/4.jpg",
-          "cards/hub200/emerge/5.jpg",
-          "cards/hub200/emerge/6.jpg"
+          "cards/hub/emerge/1.jpg",
+          "cards/hub/emerge/2.jpg",
+          "cards/hub/emerge/3.jpg",
+          "cards/hub/emerge/4.jpg",
+          "cards/hub/emerge/5.jpg",
+          "cards/hub/emerge/6.jpg"
         ]
       },
       "exaggerate": {
         "title": "exaggerate",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/exaggerate/1.jpg",
-          "cards/hub200/exaggerate/2.jpg",
-          "cards/hub200/exaggerate/3.jpg",
-          "cards/hub200/exaggerate/4.jpg",
-          "cards/hub200/exaggerate/5.jpg",
-          "cards/hub200/exaggerate/6.jpg"
+          "cards/hub/exaggerate/1.jpg",
+          "cards/hub/exaggerate/2.jpg",
+          "cards/hub/exaggerate/3.jpg",
+          "cards/hub/exaggerate/4.jpg",
+          "cards/hub/exaggerate/5.jpg",
+          "cards/hub/exaggerate/6.jpg"
         ]
       },
       "fall": {
         "title": "fall",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/fall/1.jpg",
-          "cards/hub200/fall/2.jpg",
-          "cards/hub200/fall/3.jpg",
-          "cards/hub200/fall/4.jpg",
-          "cards/hub200/fall/5.jpg",
-          "cards/hub200/fall/6.jpg"
+          "cards/hub/fall/1.jpg",
+          "cards/hub/fall/2.jpg",
+          "cards/hub/fall/3.jpg",
+          "cards/hub/fall/4.jpg",
+          "cards/hub/fall/5.jpg",
+          "cards/hub/fall/6.jpg"
         ]
       },
       "field": {
         "title": "field",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/field/1.jpg",
-          "cards/hub200/field/2.jpg",
-          "cards/hub200/field/3.jpg",
-          "cards/hub200/field/4.jpg",
-          "cards/hub200/field/5.jpg",
-          "cards/hub200/field/6.jpg"
+          "cards/hub/field/1.jpg",
+          "cards/hub/field/2.jpg",
+          "cards/hub/field/3.jpg",
+          "cards/hub/field/4.jpg",
+          "cards/hub/field/5.jpg",
+          "cards/hub/field/6.jpg"
         ]
       },
       "free": {
         "title": "free",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/free/1.jpg",
-          "cards/hub200/free/2.jpg",
-          "cards/hub200/free/3.jpg",
-          "cards/hub200/free/4.jpg",
-          "cards/hub200/free/5.jpg",
-          "cards/hub200/free/6.jpg"
+          "cards/hub/free/1.jpg",
+          "cards/hub/free/2.jpg",
+          "cards/hub/free/3.jpg",
+          "cards/hub/free/4.jpg",
+          "cards/hub/free/5.jpg",
+          "cards/hub/free/6.jpg"
         ]
       },
       "ground": {
         "title": "ground",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/ground/1.jpg",
-          "cards/hub200/ground/2.jpg",
-          "cards/hub200/ground/3.jpg",
-          "cards/hub200/ground/4.jpg",
-          "cards/hub200/ground/5.jpg",
-          "cards/hub200/ground/6.jpg"
+          "cards/hub/ground/1.jpg",
+          "cards/hub/ground/2.jpg",
+          "cards/hub/ground/3.jpg",
+          "cards/hub/ground/4.jpg",
+          "cards/hub/ground/5.jpg",
+          "cards/hub/ground/6.jpg"
         ]
       },
       "heart": {
         "title": "heart",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/heart/1.jpg",
-          "cards/hub200/heart/2.jpg",
-          "cards/hub200/heart/3.jpg",
-          "cards/hub200/heart/4.jpg",
-          "cards/hub200/heart/5.jpg",
-          "cards/hub200/heart/6.jpg",
-          "cards/hub200/heart/7.jpg"
+          "cards/hub/heart/1.jpg",
+          "cards/hub/heart/2.jpg",
+          "cards/hub/heart/3.jpg",
+          "cards/hub/heart/4.jpg",
+          "cards/hub/heart/5.jpg",
+          "cards/hub/heart/6.jpg",
+          "cards/hub/heart/7.jpg"
         ]
       },
       "include": {
         "title": "include",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/include/1.jpg",
-          "cards/hub200/include/2.jpg",
-          "cards/hub200/include/3.jpg",
-          "cards/hub200/include/4.jpg",
-          "cards/hub200/include/5.jpg",
-          "cards/hub200/include/6.jpg"
+          "cards/hub/include/1.jpg",
+          "cards/hub/include/2.jpg",
+          "cards/hub/include/3.jpg",
+          "cards/hub/include/4.jpg",
+          "cards/hub/include/5.jpg",
+          "cards/hub/include/6.jpg"
         ]
       },
       "inquire": {
         "title": "inquire",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/inquire/1.jpg",
-          "cards/hub200/inquire/2.jpg",
-          "cards/hub200/inquire/3.jpg",
-          "cards/hub200/inquire/4.jpg",
-          "cards/hub200/inquire/5.jpg",
-          "cards/hub200/inquire/6.jpg"
+          "cards/hub/inquire/1.jpg",
+          "cards/hub/inquire/2.jpg",
+          "cards/hub/inquire/3.jpg",
+          "cards/hub/inquire/4.jpg",
+          "cards/hub/inquire/5.jpg",
+          "cards/hub/inquire/6.jpg"
         ]
       },
       "involve": {
         "title": "involve",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/involve/1.jpg",
-          "cards/hub200/involve/2.jpg",
-          "cards/hub200/involve/3.jpg",
-          "cards/hub200/involve/4.jpg",
-          "cards/hub200/involve/5.jpg",
-          "cards/hub200/involve/6.jpg"
+          "cards/hub/involve/1.jpg",
+          "cards/hub/involve/2.jpg",
+          "cards/hub/involve/3.jpg",
+          "cards/hub/involve/4.jpg",
+          "cards/hub/involve/5.jpg",
+          "cards/hub/involve/6.jpg"
         ]
       },
       "light": {
         "title": "light",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/light/1.jpg",
-          "cards/hub200/light/2.jpg",
-          "cards/hub200/light/3.jpg",
-          "cards/hub200/light/4.jpg",
-          "cards/hub200/light/5.jpg",
-          "cards/hub200/light/6.jpg"
+          "cards/hub/light/1.jpg",
+          "cards/hub/light/2.jpg",
+          "cards/hub/light/3.jpg",
+          "cards/hub/light/4.jpg",
+          "cards/hub/light/5.jpg",
+          "cards/hub/light/6.jpg"
         ]
       },
       "mind": {
         "title": "mind",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/mind/1.jpg",
-          "cards/hub200/mind/2.jpg",
-          "cards/hub200/mind/3.jpg",
-          "cards/hub200/mind/4.jpg",
-          "cards/hub200/mind/5.jpg",
-          "cards/hub200/mind/6.jpg"
+          "cards/hub/mind/1.jpg",
+          "cards/hub/mind/2.jpg",
+          "cards/hub/mind/3.jpg",
+          "cards/hub/mind/4.jpg",
+          "cards/hub/mind/5.jpg",
+          "cards/hub/mind/6.jpg"
         ]
       },
       "near": {
         "title": "near",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/near/1.jpg",
-          "cards/hub200/near/2.jpg",
-          "cards/hub200/near/3.jpg",
-          "cards/hub200/near/4.jpg",
-          "cards/hub200/near/5.jpg",
-          "cards/hub200/near/6.jpg"
+          "cards/hub/near/1.jpg",
+          "cards/hub/near/2.jpg",
+          "cards/hub/near/3.jpg",
+          "cards/hub/near/4.jpg",
+          "cards/hub/near/5.jpg",
+          "cards/hub/near/6.jpg"
         ]
       },
       "part": {
         "title": "part",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/part/1.jpg",
-          "cards/hub200/part/2.jpg",
-          "cards/hub200/part/3.jpg",
-          "cards/hub200/part/4.jpg",
-          "cards/hub200/part/5.jpg",
-          "cards/hub200/part/6.jpg"
+          "cards/hub/part/1.jpg",
+          "cards/hub/part/2.jpg",
+          "cards/hub/part/3.jpg",
+          "cards/hub/part/4.jpg",
+          "cards/hub/part/5.jpg",
+          "cards/hub/part/6.jpg"
         ]
       },
       "place": {
         "title": "place",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/place/1.jpg",
-          "cards/hub200/place/2.jpg",
-          "cards/hub200/place/3.jpg",
-          "cards/hub200/place/4.jpg",
-          "cards/hub200/place/5.jpg",
-          "cards/hub200/place/6.jpg"
+          "cards/hub/place/1.jpg",
+          "cards/hub/place/2.jpg",
+          "cards/hub/place/3.jpg",
+          "cards/hub/place/4.jpg",
+          "cards/hub/place/5.jpg",
+          "cards/hub/place/6.jpg"
         ]
       },
       "represent": {
         "title": "represent",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/represent/1.jpg",
-          "cards/hub200/represent/2.jpg",
-          "cards/hub200/represent/3.jpg",
-          "cards/hub200/represent/4.jpg",
-          "cards/hub200/represent/5.jpg",
-          "cards/hub200/represent/6.jpg"
+          "cards/hub/represent/1.jpg",
+          "cards/hub/represent/2.jpg",
+          "cards/hub/represent/3.jpg",
+          "cards/hub/represent/4.jpg",
+          "cards/hub/represent/5.jpg",
+          "cards/hub/represent/6.jpg"
         ]
       },
       "revere": {
         "title": "revere",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/revere/1.jpg",
-          "cards/hub200/revere/2.jpg",
-          "cards/hub200/revere/3.jpg",
-          "cards/hub200/revere/4.jpg",
-          "cards/hub200/revere/5.jpg",
-          "cards/hub200/revere/6.jpg"
+          "cards/hub/revere/1.jpg",
+          "cards/hub/revere/2.jpg",
+          "cards/hub/revere/3.jpg",
+          "cards/hub/revere/4.jpg",
+          "cards/hub/revere/5.jpg",
+          "cards/hub/revere/6.jpg"
         ]
       },
       "scatter": {
         "title": "scatter",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/scatter/1.jpg",
-          "cards/hub200/scatter/2.jpg",
-          "cards/hub200/scatter/3.jpg",
-          "cards/hub200/scatter/4.jpg",
-          "cards/hub200/scatter/5.jpg",
-          "cards/hub200/scatter/6.jpg"
+          "cards/hub/scatter/1.jpg",
+          "cards/hub/scatter/2.jpg",
+          "cards/hub/scatter/3.jpg",
+          "cards/hub/scatter/4.jpg",
+          "cards/hub/scatter/5.jpg",
+          "cards/hub/scatter/6.jpg"
         ]
       },
       "soothe": {
         "title": "soothe",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/soothe/1.jpg",
-          "cards/hub200/soothe/2.jpg",
-          "cards/hub200/soothe/3.jpg",
-          "cards/hub200/soothe/4.jpg",
-          "cards/hub200/soothe/5.jpg",
-          "cards/hub200/soothe/6.jpg",
-          "cards/hub200/soothe/7.jpg"
+          "cards/hub/soothe/1.jpg",
+          "cards/hub/soothe/2.jpg",
+          "cards/hub/soothe/3.jpg",
+          "cards/hub/soothe/4.jpg",
+          "cards/hub/soothe/5.jpg",
+          "cards/hub/soothe/6.jpg",
+          "cards/hub/soothe/7.jpg"
         ]
       },
       "subject": {
         "title": "subject",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/subject/1.jpg",
-          "cards/hub200/subject/2.jpg",
-          "cards/hub200/subject/3.jpg",
-          "cards/hub200/subject/4.jpg",
-          "cards/hub200/subject/5.jpg",
-          "cards/hub200/subject/6.jpg"
+          "cards/hub/subject/1.jpg",
+          "cards/hub/subject/2.jpg",
+          "cards/hub/subject/3.jpg",
+          "cards/hub/subject/4.jpg",
+          "cards/hub/subject/5.jpg",
+          "cards/hub/subject/6.jpg"
         ]
       },
       "wrong": {
         "title": "wrong",
-        "category": "hub200",
+        "category": "hub",
         "cards": [
-          "cards/hub200/wrong/1.jpg",
-          "cards/hub200/wrong/2.jpg",
-          "cards/hub200/wrong/3.jpg",
-          "cards/hub200/wrong/4.jpg",
-          "cards/hub200/wrong/5.jpg",
-          "cards/hub200/wrong/6.jpg"
+          "cards/hub/wrong/1.jpg",
+          "cards/hub/wrong/2.jpg",
+          "cards/hub/wrong/3.jpg",
+          "cards/hub/wrong/4.jpg",
+          "cards/hub/wrong/5.jpg",
+          "cards/hub/wrong/6.jpg"
         ]
       }
     }
