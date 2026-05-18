@@ -1,5 +1,4 @@
 let data = null;
-
 let currentCategoryKey = null;
 let currentCategoryWords = [];
 let currentWordKey = null;
@@ -8,9 +7,6 @@ let currentCardIndex = 0;
 const $ = (id) => document.getElementById(id);
 
 const els = {
-  searchInput: $("searchInput"),
-  searchBtn: $("searchBtn"),
-  searchMessage: $("searchMessage"),
   categoryButtons: $("categoryButtons"),
   wordListPanel: $("wordListPanel"),
   activeCategoryTitle: $("activeCategoryTitle"),
@@ -30,6 +26,7 @@ const els = {
 };
 
 async function loadData() {
+  // words.json을 불러옵니다.
   const response = await fetch("./words.json", { cache: "no-store" });
   if (!response.ok) throw new Error("words.json을 불러오지 못했습니다.");
   data = await response.json();
@@ -38,7 +35,6 @@ async function loadData() {
 
 function renderCategories() {
   els.categoryButtons.innerHTML = "";
-
   Object.entries(data.categories).forEach(([key, category]) => {
     const btn = document.createElement("button");
     btn.type = "button";
@@ -53,6 +49,7 @@ function openCategory(categoryKey) {
   if (!category) return;
 
   currentCategoryKey = categoryKey;
+  // 카테고리에 정의된 단어 리스트 중 실제 words 데이터에 존재하는 것만 필터링
   currentCategoryWords = category.words.filter((wordKey) => data.words[wordKey]);
 
   els.activeCategoryTitle.textContent = category.label;
@@ -72,22 +69,12 @@ function openCategory(categoryKey) {
   window.scrollTo({ top: els.wordListPanel.offsetTop - 10, behavior: "smooth" });
 }
 
-function openWord(wordKey, categoryKey = currentCategoryKey) {
-  if (!data.words[wordKey]) {
-    showSearchMessage("준비 중인 단어입니다.");
-    return;
-  }
+function openWord(wordKey, categoryKey) {
+  if (!data.words[wordKey]) return;
 
   currentWordKey = wordKey;
   currentCardIndex = 0;
-
-  if (categoryKey && data.categories[categoryKey]) {
-    currentCategoryKey = categoryKey;
-    currentCategoryWords = data.categories[categoryKey].words.filter((key) => data.words[key]);
-  } else if (!currentCategoryWords.includes(wordKey)) {
-    currentCategoryWords = Object.keys(data.words);
-    currentCategoryKey = null;
-  }
+  currentCategoryKey = categoryKey;
 
   els.playerPanel.classList.remove("hidden");
   els.wordListPanel.classList.add("hidden");
@@ -112,8 +99,6 @@ function updateCard() {
 
 function nextCard() {
   const word = data.words[currentWordKey];
-  if (!word) return;
-
   if (currentCardIndex < word.cards.length - 1) {
     currentCardIndex += 1;
     updateCard();
@@ -128,65 +113,23 @@ function prevCard() {
 }
 
 function shiftWord(delta) {
-  if (!currentWordKey || currentCategoryWords.length === 0) return;
-
   const currentIndex = currentCategoryWords.indexOf(currentWordKey);
   if (currentIndex === -1) return;
 
   const nextIndex = currentIndex + delta;
-  if (nextIndex < 0 || nextIndex >= currentCategoryWords.length) return;
-
-  openWord(currentCategoryWords[nextIndex], currentCategoryKey);
-}
-
-function searchWord() {
-  const raw = els.searchInput.value.trim();
-  const query = normalize(raw);
-  if (!query) return;
-
-  const wordKey = findWordKey(query);
-  if (!wordKey) {
-    showSearchMessage(`"${raw}"는 아직 준비 중입니다.`);
-    return;
+  if (nextIndex >= 0 && nextIndex < currentCategoryWords.length) {
+    openWord(currentCategoryWords[nextIndex], currentCategoryKey);
   }
-
-  showSearchMessage("");
-  openWord(wordKey, data.words[wordKey].category || null);
-}
-
-function normalize(value) {
-  return value.toLowerCase().replace(/\s+/g, "-");
-}
-
-function findWordKey(query) {
-  if (data.words[query]) return query;
-
-  return Object.entries(data.words).find(([, word]) => {
-    return normalize(word.title || "") === query;
-  })?.[0];
-}
-
-function showSearchMessage(message) {
-  els.searchMessage.textContent = message;
 }
 
 function bindEvents() {
-  els.searchBtn.addEventListener("click", searchWord);
-  els.searchInput.addEventListener("keydown", (event) => {
-    if (event.key === "Enter") searchWord();
-  });
-
   els.closeListBtn.addEventListener("click", () => {
     els.wordListPanel.classList.add("hidden");
   });
 
   els.backHomeBtn.addEventListener("click", () => {
     els.playerPanel.classList.add("hidden");
-    if (currentCategoryKey) {
-      openCategory(currentCategoryKey);
-    } else {
-      window.scrollTo({ top: 0, behavior: "smooth" });
-    }
+    if (currentCategoryKey) openCategory(currentCategoryKey);
   });
 
   els.nextCardBtn.addEventListener("click", nextCard);
@@ -195,22 +138,10 @@ function bindEvents() {
   els.prevWordBtn.addEventListener("click", () => shiftWord(-1));
 
   els.cardStage.addEventListener("click", nextCard);
-  els.cardStage.addEventListener("keydown", (event) => {
-    if (event.key === "Enter" || event.key === " ") nextCard();
-    if (event.key === "ArrowRight") nextCard();
-    if (event.key === "ArrowLeft") prevCard();
-  });
-
-  els.cardImage.addEventListener("error", () => {
-    els.missingImage.classList.remove("hidden");
-  });
-
-  els.cardImage.addEventListener("load", () => {
-    els.missingImage.classList.add("hidden");
-  });
+  
+  els.cardImage.addEventListener("error", () => els.missingImage.classList.remove("hidden"));
+  els.cardImage.addEventListener("load", () => els.missingImage.classList.add("hidden"));
 }
 
 bindEvents();
-loadData().catch((error) => {
-  showSearchMessage(error.message);
-});
+loadData().catch(console.error);
