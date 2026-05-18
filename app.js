@@ -18,9 +18,13 @@ const els = {
 };
 
 async function loadData() {
-  const response = await fetch("./words.json?v=" + Date.now());
-  data = await response.json();
-  renderCategories();
+  try {
+    const response = await fetch("./words.json?v=" + Date.now());
+    data = await response.json();
+    renderCategories();
+  } catch (e) {
+    console.error("데이터 로드 실패:", e);
+  }
 }
 
 function renderCategories() {
@@ -60,20 +64,21 @@ function renderWordList(wordKeys) {
 
 function updateCard() {
   const word = data.words[currentWordKey];
-  if (!word) return;
+  if (!word || !word.cards[currentCardIndex]) return;
+  
   els.currentWordTitle.textContent = word.title || currentWordKey;
   els.cardCounter.textContent = `${currentCardIndex + 1} / ${word.cards.length}`;
-  // hub200 경로 보정 로직 포함
+  // 경로 보정
   els.cardImage.src = word.cards[currentCardIndex].replace("hub200", "hub");
 }
 
-// 이벤트 바인딩 강제 연결
-if (els.backHomeBtn) els.backHomeBtn.onclick = () => {
+// 이벤트 핸들러 명시적 할당
+els.backHomeBtn.onclick = () => {
   els.playerPanel.style.display = "none";
   els.wordListPanel.style.display = "block";
 };
 
-if (els.nextCardBtn) els.nextCardBtn.onclick = () => {
+els.nextCardBtn.onclick = () => {
   const word = data.words[currentWordKey];
   if (word && currentCardIndex < word.cards.length - 1) {
     currentCardIndex++;
@@ -81,7 +86,7 @@ if (els.nextCardBtn) els.nextCardBtn.onclick = () => {
   }
 };
 
-if (els.prevCardBtn) els.prevCardBtn.onclick = () => {
+els.prevCardBtn.onclick = () => {
   if (currentCardIndex > 0) {
     currentCardIndex--;
     updateCard();
