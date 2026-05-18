@@ -1,24 +1,31 @@
+function updateCard() {
+  const word = data.words[currentWordKey];
+  if (!word) return;
+  
+  els.currentWordTitle.textContent = word.title || currentWordKey;
+  els.cardCounter.textContent = `${currentCardIndex + 1} / ${word.cards.length}`;
+  
+  // 핵심: JSON에 hub200이라 적혀있어도 실제 경로인 hub로 바꿔서 로드
+  let rawPath = word.cards[currentCardIndex];
+  let fixedPath = rawPath.replace('hub200', 'hub'); 
+  
+  els.cardImage.src = fixedPath;
+}
+
 function renderWordList(wordKeys) {
   els.wordButtons.innerHTML = "";
   wordKeys.forEach(key => {
     if (!data.words[key]) return;
     const btn = document.createElement("button");
-    btn.type = "button"; // 모바일 클릭 오작동 방지
     btn.textContent = data.words[key].title || key;
-    
     btn.onclick = () => {
-      // 1. 데이터 설정
       currentWordKey = key;
       currentCardIndex = 0;
-      
-      // 2. 화면 전환 (핵심)
-      els.wordListPanel.classList.add("hidden");   // 목록 숨기기
-      els.playerPanel.classList.remove("hidden"); // 플레이어 보이기
-      
-      // 3. 카드 로드
+      // 모바일에서 가장 확실한 화면 전환 방법
+      els.wordListPanel.style.display = "none";
+      els.playerPanel.style.display = "block";
+      els.playerPanel.classList.remove("hidden");
       updateCard();
-      
-      // 4. 스크롤 상단 이동 (모바일 배려)
       window.scrollTo(0, 0);
     };
     els.wordButtons.appendChild(btn);
