@@ -3,6 +3,7 @@ let currentWordKey = null;
 let currentCardIndex = 0;
 
 const $ = (id) => document.getElementById(id);
+
 const els = {
   categoryButtons: $("categoryButtons"),
   wordListPanel: $("wordListPanel"),
@@ -23,13 +24,14 @@ async function loadData() {
 }
 
 function renderCategories() {
+  if (!els.categoryButtons) return;
   els.categoryButtons.innerHTML = "";
   Object.entries(data.categories).forEach(([key, category]) => {
     const btn = document.createElement("button");
     btn.textContent = category.label;
     btn.onclick = () => {
       renderWordList(category.words);
-      els.wordListPanel.style.display = "block"; // 강제 노출
+      els.wordListPanel.style.display = "block";
       els.wordListPanel.classList.remove("hidden");
       els.playerPanel.style.display = "none";
     };
@@ -47,7 +49,7 @@ function renderWordList(wordKeys) {
       currentWordKey = key;
       currentCardIndex = 0;
       els.wordListPanel.style.display = "none";
-      els.playerPanel.style.display = "block"; // 플레이어 강제 노출
+      els.playerPanel.style.display = "block";
       els.playerPanel.classList.remove("hidden");
       updateCard();
       window.scrollTo(0, 0);
@@ -58,23 +60,28 @@ function renderWordList(wordKeys) {
 
 function updateCard() {
   const word = data.words[currentWordKey];
+  if (!word) return;
   els.currentWordTitle.textContent = word.title || currentWordKey;
   els.cardCounter.textContent = `${currentCardIndex + 1} / ${word.cards.length}`;
-  // 경로 자동 수정: hub200 -> hub
+  // hub200 경로 보정 로직 포함
   els.cardImage.src = word.cards[currentCardIndex].replace("hub200", "hub");
 }
 
-els.backHomeBtn.onclick = () => {
+// 이벤트 바인딩 강제 연결
+if (els.backHomeBtn) els.backHomeBtn.onclick = () => {
   els.playerPanel.style.display = "none";
   els.wordListPanel.style.display = "block";
 };
-els.nextCardBtn.onclick = () => {
-  if (currentCardIndex < data.words[currentWordKey].cards.length - 1) {
+
+if (els.nextCardBtn) els.nextCardBtn.onclick = () => {
+  const word = data.words[currentWordKey];
+  if (word && currentCardIndex < word.cards.length - 1) {
     currentCardIndex++;
     updateCard();
   }
 };
-els.prevCardBtn.onclick = () => {
+
+if (els.prevCardBtn) els.prevCardBtn.onclick = () => {
   if (currentCardIndex > 0) {
     currentCardIndex--;
     updateCard();
