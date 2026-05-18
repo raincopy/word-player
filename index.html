@@ -10,52 +10,35 @@
   <main class="app">
     <header class="hero">
       <div class="eyebrow">AI 영어 단어 학습방</div>
-      <h1>뜻 말고<br />구조로 보는 영어 단어</h1>
-      <p>카테고리를 선택하여 단어 학습을 시작하세요.</p>
+      <h1>뜻 말고 구조로 보는 영어</h1>
     </header>
 
-    <section class="category-panel" aria-label="카테고리">
-      <h2>카테고리</h2>
+    <section class="category-panel">
       <div id="categoryButtons" class="category-buttons"></div>
     </section>
 
-    <section id="wordListPanel" class="word-list-panel hidden" aria-label="단어 목록">
-      <div class="panel-title-row">
-        <h2 id="activeCategoryTitle">단어 목록</h2>
-        <button id="closeListBtn" type="button" class="ghost-btn">닫기</button>
-      </div>
+    <section id="wordListPanel" class="word-list-panel hidden">
+      <h2 id="activeCategoryTitle" style="margin-bottom:15px;">단어 목록</h2>
       <div id="wordButtons" class="word-buttons"></div>
     </section>
 
-    <section id="playerPanel" class="player-panel hidden" aria-label="단어 카드 플레이어">
+    <section id="playerPanel" class="player-panel hidden">
       <div class="player-top">
-        <button id="backHomeBtn" type="button" class="ghost-btn">목록</button>
+        <button id="backHomeBtn" type="button" class="ghost-btn">← 목록</button>
         <div class="word-meta">
           <div id="currentWordTitle" class="current-word">word</div>
-          <div id="cardCounter" class="card-counter">1 / 6</div>
+          <div id="cardCounter" class="card-counter">1 / 1</div>
         </div>
       </div>
-
-      <div id="cardStage" class="card-stage" role="button" tabindex="0" aria-label="카드 넘기기">
-        <img id="cardImage" alt="단어 카드 이미지" />
-        <div id="missingImage" class="missing-image hidden">
-          이미지를 찾을 수 없습니다.<br />
-          경로를 확인하세요.
-        </div>
+      <div id="cardStage" class="card-stage">
+        <img id="cardImage" alt="단어 카드" />
       </div>
-
       <div class="card-controls">
         <button id="prevCardBtn" type="button">이전 이미지</button>
         <button id="nextCardBtn" type="button">다음 이미지</button>
       </div>
-
-      <div class="word-controls">
-        <button id="prevWordBtn" type="button">이전 단어</button>
-        <button id="nextWordBtn" type="button">다음 단어</button>
-      </div>
     </section>
   </main>
-
   <script src="./app.js"></script>
 </body>
 </html>
